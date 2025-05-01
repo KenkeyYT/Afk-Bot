@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "SAYA_ADVENTURE.aternos.me:27976",
+    "port": 27976,
     "version": "1.19.3"
   },
 
